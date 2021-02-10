@@ -1,2 +1,2 @@
-# Bubble sorting array
+sorting array visualiser
 
